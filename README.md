@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Je$$ie :D
+
+### The playlist🎵 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
 <!--
 **Jessie1026/Jessie1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
