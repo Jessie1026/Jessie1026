@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Je$$ie :D
+- 💙 I’m Jessie
+- 🤍 I love captain America
+- 🖤 I’m currently learning ...
 
 ### The playlist🎵 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
