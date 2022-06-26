@@ -1,7 +1,7 @@
 ## Hi there, beautiful ppl 👋
 ![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessie1026&show_icons=true&theme=tokyonight)
 
-💙 I’m Jessie, and I love captain America 🤍 
+💙 I’m Jessie, and I love Captain America 🤍 
 
 ### Currently Learning 📚 
 
